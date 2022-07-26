@@ -4,11 +4,5 @@
 
 In this project, the goal is to predict and understand churning customers.
   
-  
-## Installation
-
-This project requires **R version 4.0.3** 
-with **R Studio Version 1.3.1093** installed.
-
-### Software
+# Software
 This project requires Python.
