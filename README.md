@@ -1,4 +1,4 @@
-![Logo](https://cdn-dfnaj.nitrocdn.com/xxeFXDnBIOflfPsgwjDLywIQwPChAOzV/assets/static/optimized/rev-d8cde13/wp-content/uploads/2017/07/customer-churn-edit.jpeg)
+![Logo](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
 # Customer Churn Prediction
 
